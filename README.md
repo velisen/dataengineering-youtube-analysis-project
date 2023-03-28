@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img src="architecture.jpeg">
 
 ## Results
-<img src="results.jpeg">
+<img src="results.jpg">
 
 
 
